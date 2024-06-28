@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on A music Player with Listen togather feature<br>🌱 I’m currently learning DSA & MERN stack<br>💬 Ask me about Web Development<br>⚡ Fun fact: I love to watch Movies & Series
+🔭 I’m currently Solving & Learning DSA on leetcode<br>🌱 I’m currently learning MERN stack<br>💬 Ask me about Web Development<br>⚡ Fun fact: I love to watch Movies & Series
 
 
 # 💻 Tech Stack:
@@ -7,6 +7,3 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
