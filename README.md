@@ -7,3 +7,8 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔥 Streaks & Stats
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MananKanani5&" alt="MananKanani5" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MananKanani5&show_icons=true&locale=en" alt="MananKanani5" /></p>
+
